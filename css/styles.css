@@ -210,7 +210,7 @@ address {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/main-page/Dark-bg_mob1x.jpg);
+    url(../images/main-page/fisherman.jpg);
   background-color: #2e2f42;
   padding: 72px 0;
   text-align: center;
@@ -222,7 +222,7 @@ address {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/main-page/Dark-bg_mob2x.jpg);
+      url(../images/main-page/fisherman2x.jpg);
   }
 }
 @media only screen and (min-width: 768px) {
@@ -231,7 +231,7 @@ address {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/main-page/Dark-bg_tab1x.jpg);
+      url(../images/main-page/fisherman1x.jpg);
     padding: 112px 0;
   }
 }
